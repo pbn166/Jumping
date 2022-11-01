@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jumping</string>
+    <string name="chronometerInAndroid">Chronometer In Android</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="restart">Restart</string>
+    <string name="setFormat">Set Format</string>
+    <string name="clearFormat">Clear Format</string>
+</resources>
