@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Jumping/app/src/main/res/layout/activity_jumpingvideo.xml" value="0.13802083333333334" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/Jumping/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Jumping/app/src/main/res/layout/jumping_layout.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Jumping/app/src/main/res/layout/jumpingvideo_layout.xml" value="0.2484375" />
       </map>
     </option>
   </component>

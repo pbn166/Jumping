@@ -24,6 +24,7 @@ android {
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
+       //compile files('libs/YouTubeAndroidPlayerApi.jar')
     }
 }
 
@@ -40,5 +41,6 @@ dependencies {
 
     dependencies {
         implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.17'
+
     }
 }
